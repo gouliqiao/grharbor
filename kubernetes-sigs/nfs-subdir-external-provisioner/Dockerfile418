@@ -12,6 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.18
+FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:latest
 LABEL maintainers="Kubernetes Authors"
 LABEL description="NFS subdir external provisioner"
