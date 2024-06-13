@@ -1,0 +1,5 @@
+FROM phpipam/phpipam-www
+
+LABEL maintainers="business"
+LABEL description="官网镜像"
+
